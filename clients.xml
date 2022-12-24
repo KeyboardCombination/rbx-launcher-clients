@@ -1,3 +1,3 @@
 <clients>
-  <client name="3-2007" description="This client has vulnerable RCE and should not be used for public multiplayer." icon="" fulldate="March 2007" url="http://github.com/MaximumADHD/Roblox_0.3.368.0/zipball/main/"/>
+  <client name="3-2007" description="This client has vulnerable RCE and should not be used for public multiplayer." icon="" fulldate="March 2007" url="http://github.com/KeyboardCombination/rbx-launcher-clients/zipball/3-2007/"/>
 </clients>
