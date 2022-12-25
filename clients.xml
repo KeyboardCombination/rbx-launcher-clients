@@ -1,4 +1,4 @@
 <clients>
-  <client name="2008-M" description="A build of Roblox from mid 2008." fulldate="Mid 2008" url="https://github.com/KeyboardCombination/rbx-launcher-clients/raw/main/clients/2008-M.zip" version="0"/>
+  <client name="2008-M" description="A build of Roblox from mid 2008." fulldate="Mid 2008" url="https://github.com/KeyboardCombination/rbx-launcher-clients/raw/main/clients/2008-M.zip" version="1"/>
   <client name="2007-3" description="This client has vulnerable RCE and should not be used for public multiplayer." fulldate="March 2007" url="http://github.com/KeyboardCombination/rbx-launcher-clients/zipball/3-2007/" version="0"/>
 </clients>
