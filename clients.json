@@ -1,0 +1,12 @@
+{
+    "2008-M": {
+        "url": "https://github.com/KeyboardCombination/rbx-launcher-clients/raw/main/clients/2008-M.zip",
+        "description": "A build of Roblox from mid 2008.",
+        "date": "Mid 2008"
+    },
+    "2007-3": {
+        "url": "http://github.com/KeyboardCombination/rbx-launcher-clients/zipball/3-2007/",
+        "description": "This client has vulnerable RCE and should not be used for public multiplayer.",
+        "date": "March 2007"
+    }
+}
